@@ -1,0 +1,28 @@
+# Windows
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+
+# IDE files
+.vscode/
+*.suo
+*.user
+*.swp
+*.swo
+
+# Test files
+test_*.bat
+*_test.bat
+
